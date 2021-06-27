@@ -3,6 +3,9 @@ sass:
   load_paths:
     - ../assets/css/
 
-domain: techsGiving.github.io
 url: https://techsGiving.github.io
 baseurl: ""
+
+github: [metadata]
+
+repository: agl49/techsGiving.github.io
