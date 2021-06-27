@@ -2,3 +2,6 @@ sass:
   sass_dir: _sass
   load_paths:
     - ../assets/css/
+
+domain: techsGiving.github.io
+url: https://techsGiving.github.io    
