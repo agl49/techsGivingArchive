@@ -1,0 +1,18 @@
+<!-- Sponsor list -->
+<div class="sponsors">
+    {% for sponsor in site.data.sponsors %}
+    {% assign s = sponsor[1] %}
+    <div class="sponsorSection">
+        <h2 class="headerText">
+            <span class="{{ s.titleStyle }}">{{ s.sponsorTitle }}</span>
+        </h2>
+        {% for corp in s.members %}
+        <div class="linkContainer">
+            <a href="{{ corp.link }}">
+                <img src="{{ corp.logo }}" class="corpImage" alt="{{ corp.name }}">
+            </a>
+        </div>
+        {%endfor%}
+    </div>
+    {% endfor %}
+</div>

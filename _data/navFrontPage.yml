@@ -1,0 +1,12 @@
+- name: About
+  link: about
+  style: temp
+- name: Who
+  link: who
+  style: temp
+- name: Sponsors
+  link: sponsors
+  style: temp
+- name: Register
+  link: register
+  style: temp

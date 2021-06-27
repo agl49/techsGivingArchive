@@ -1,0 +1,28 @@
+<nav class="navBar" id="NAV">
+    <ul>
+        <span class="hamburger" onclick="navToBurger()"></span>
+        <!-- link to home page -->
+        <!-- Might be a better way to handle the url that displays -->
+        <li><a href="/index.html">Home</a></li>
+
+        <!-- if we are at the home page, display the home page links, otherwise, no -->
+        {% if page.title == "Home" %}
+            <!--For links on Home Page-->
+            {% for item in site.data.navFrontPage %}
+            <li class="p-{{item.style}}"><a href="#{{item.link}}">
+                {{item.name}}</a>
+            </li>
+            {% endfor %}
+        {% endif %}
+        
+        <!--For new page-->
+        {% for item in site.data.navNewPage %}
+        <li>
+                <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #eead3d;"{% endif %}>
+                {{ item.name }}
+                </a>
+        </li>
+        {% endfor %}
+        <!-- <span class="hamburger" onclick="navToBurger()"></span> -->
+    </ul>
+</nav>

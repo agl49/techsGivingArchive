@@ -1,0 +1,17 @@
+---
+layout: default
+title: Home
+---
+{% for page in site.posts reversed %}
+
+<!-- You can have different html per section via applying different layouts I think -->
+
+{% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+<div class="section-{{id}}">
+  
+  <!-- Maybe get rid of this if you don't use -->
+  <div class="container-{{ page.style }}">
+    {{ page.content }}
+  </div>
+</div>
+{% endfor %}

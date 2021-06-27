@@ -1,0 +1,16 @@
+<!-- Card Group -->
+<div class="cardGroup">
+    {% for item in site.data.studentLeaders %}
+    <div class="card">
+        <div class="card-body">
+            <img src="{{ item.photo }}" class="portrait" alt="{{ item.name }}">
+            <h4 class="card-name">{{ item.name }}</h4>
+            <p class="card-title">{{ item.title }}</p>
+            <p class="card-text">{{ item.special }}</p>
+            <!-- links? -->
+            <a href="{{ item.link }}">Contact</a>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+<!-- <div class="space"></div> -->
