@@ -3,7 +3,7 @@ sass:
   load_paths:
     - ../assets/css/
 
-url: https://techsGiving.github.io
+url: https://agl49.github.io/techsGiving/
 baseurl: ""
 
 github: [metadata]
