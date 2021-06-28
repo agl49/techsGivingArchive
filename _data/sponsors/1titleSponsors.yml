@@ -2,10 +2,10 @@ sponsorTitle: Title Sponsor
 titleStyle: titleSponsor
 members: 
   - name: crest Ind.
-    logo: /assets/crest.jpg
+    logo: https://agl49.github.io/techsGiving/assets/crest.jpg
     link: https://www.crestoperations.com/
 
   - name: Mirage
-    logo: /assets/mirage.png
+    logo: https://agl49.github.io/techsGiving/assets/mirage.png
     link: https://mirage-corporation-nv-casinos.com/
     

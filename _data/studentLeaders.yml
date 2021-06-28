@@ -1,29 +1,29 @@
 - name: Adrian Lopez
-  photo: /assets/meCompressed.jpg
+  photo: https://agl49.github.io/techsGiving/assets/meCompressed.jpg
   title: Texas State ACM Chair
   special: good at code 
   link: https://www.youtube.com/watch?v=ZOa-VO2_SLg
 
 - name: Sad boy
-  photo: /assets/sadBoy.png
+  photo: https://agl49.github.io/techsGiving/assets/sadBoy.png
   title: Omori
   special: knife 
   link: https://www.omori-game.com/en
 
 - name: Michael Dam
-  photo: /assets/michaelTestC.jpg
+  photo: https://agl49.github.io/techsGiving/assets/michaelTestC.jpg
   title: CEO for life
   special: Head of facebook
   link: https://unsplash.com/photos/mEZ3PoFGs_k
 
 - name: Harps Joseph
-  photo: /assets/harpsTestC.jpg
+  photo: https://agl49.github.io/techsGiving/assets/harpsTestC.jpg
   title: burger boy
   special: works at google
   link: https://unsplash.com/photos/tAvpDE7fXgY
 
 - name: SIS
-  photo: /assets/sisC.jpg
+  photo: https://agl49.github.io/techsGiving/assets/sisC.jpg
   title: Engineer
   special: Making cars
   link: https://unsplash.com/photos/tAvpDE7fXgY
