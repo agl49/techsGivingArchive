@@ -4,11 +4,11 @@
   special: good at code 
   link: https://www.youtube.com/watch?v=ZOa-VO2_SLg
 
-- name: Sad boy
-  photo: https://agl49.github.io/techsGiving/assets/sadBoy.png
-  title: Omori
-  special: knife 
-  link: https://www.omori-game.com/en
+- name: Willie Huber
+  photo: https://agl49.github.io/techsGiving/assets/gabrielSilverio.jpg
+  title: Organizer
+  special: Emailing 
+  link: https://unsplash.com/photos/u3WmDyKGsrY
 
 - name: Michael Dam
   photo: https://agl49.github.io/techsGiving/assets/michaelTestC.jpg
@@ -22,8 +22,8 @@
   special: works at google
   link: https://unsplash.com/photos/tAvpDE7fXgY
 
-- name: SIS
-  photo: https://agl49.github.io/techsGiving/assets/sisC.jpg
+- name: Dionne Chen
+  photo: ../assets/benParker.jpg
   title: Engineer
   special: Making cars
   link: https://unsplash.com/photos/tAvpDE7fXgY
