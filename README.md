@@ -2,7 +2,7 @@
 A static website to advertise an online competitive codeing competition set to 
 occur on november of 2021. Visit?(Link to website here)
 
-(image of front of website here)
+![website](/webpage.png)
 
 ## Technologies
 
