@@ -1,6 +1,6 @@
 ## TechsGiving Website
 A static website to advertise an online competitive codeing competition set to 
-occur on november of 2021. Visit?(Link to website here)
+occur on november of 2021. Visit?
 
 ![website](/webpage.png)
 
