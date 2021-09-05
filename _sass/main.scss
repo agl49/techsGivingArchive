@@ -114,8 +114,9 @@ body {
 
 .aboutBullets {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
+    flex-direction: column;
 }
 
 .aboutBullets li{
@@ -123,7 +124,7 @@ body {
     padding-right: 200px;
     padding-left: 50px;
     text-align: left;
-    list-style-position: outside;
+    list-style-position: inside;
 }
 
 /* Who Section Components */
