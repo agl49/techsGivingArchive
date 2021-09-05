@@ -113,9 +113,15 @@ body {
 }
 
 .aboutBullets {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aboutBullets li{
     color: black;
-    padding-right: 50px;
-    padding-left: 100px;
+    padding-right: 200px;
+    padding-left: 50px;
     text-align: left;
     list-style-position: outside;
 }
