@@ -17,7 +17,7 @@ occur on november of 2021. Visit?
 
 ### Locally
 
-To launch the site locally, you'll need to install the following jekyll by 
+To launch the site locally, you'll need to install jekyll by 
 following the instructions on [this](https://jekyllrb.com/docs/step-by-step/01-setup/)
 site.
 
